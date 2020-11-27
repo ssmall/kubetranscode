@@ -1,3 +1,4 @@
+# kubetranscode
 ![License](https://img.shields.io/github/license/ssmall/kubetranscode)
 ![GitHub top language](https://img.shields.io/github/languages/top/ssmall/kubetranscode)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ssmall/kubetranscode)
@@ -6,5 +7,4 @@
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/ssmall/kubetranscode)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/ssmall/kubetranscode)
 
-# kubetranscode
-An ffmpeg-based containerized video transcoding microservice
+An ffmpeg-based containerized video transcoding microservice.
